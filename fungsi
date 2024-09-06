@@ -5,7 +5,7 @@ import tkinter as tk
 button = tk.Tk()
 
 # Mengatur judul halaman web
-button.title("Fara Azzura Dasgupta - Latihan Button")
+button.title("diaz yanita - Latihan Button")
 
 # Membuat label
 label = tk.Label(button, text="Masukkan Nama:")
